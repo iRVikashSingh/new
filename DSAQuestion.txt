@@ -1,0 +1,9 @@
+importent Array Question
+
+Search an Element in an array
+Check if two arrays are equal or not
+Missing element of AP
+Cyclically rotate an array by one
+Find minimum and maximum element in an array
+Binary Array Sorting
+Move all negative elements to end
